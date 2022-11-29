@@ -124,7 +124,6 @@
 	<haxelib name="flixel-ui" />
 	<haxelib name="newgrounds" unless="mobile"/>
 	<haxelib name="faxe" if='switch'/>
-	<haxelib name="polymod"/>
 	<haxelib name="discord_rpc" if="desktop"/>
 	<setenv name="next" />
 	<!-- <haxelib name="hxcpp-debug-server" if="desktop"/> -->
